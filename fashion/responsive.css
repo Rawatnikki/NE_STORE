@@ -1,0 +1,134 @@
+@media (max-width: 1399.98px) {
+    .navbar-nav {
+        margin-left: 15%;
+    }
+
+    .navbar ul li a {
+        font-size: 17px;
+
+    }
+
+    .card .card-body p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .navbar-nav {
+        margin-left: 8%;
+    }
+
+    .navbar button {
+        font-weight: 500;
+        font-size: 16px;
+    }
+
+    .head_text span {
+        font-size: 55px;
+        line-height: 70px;
+    }
+
+    .card .card-body p {
+        font-size: 13px;
+    }
+
+}
+
+@media (max-width: 1041.99px) {
+    .navbar-nav {
+        margin-left: 0%;
+    }
+
+    .navbar ul li a {
+        font-size: 18px;
+        margin-right: 6px;
+        padding-right: 0.5rem;
+    }
+}
+
+@media (max-width: 991.98px) {
+
+    .head_text {
+        margin-top: 5%;
+    }
+
+    .head-img_wrapper {
+        width: 90%;
+        height: 450px;
+        margin: 45px auto;
+    }
+
+    .head-img {
+        width: 75%;
+        height: 348px;
+    }
+
+    .head-img img {
+        height: 368px;
+        width: 100%;
+        margin: 4px auto;
+    }
+
+    .premium_wrapper {
+        margin-top: 7px;
+    }
+
+    .premium_wrapper h1 {
+        font-size: 40px;
+        margin-top: -18px;
+    }
+
+    .ultimate-inner {
+        height: 275px;
+        padding-top: 42px;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    .premium-button button {
+        padding: 2px 6px;
+        font-size: 12px;
+        margin: 6px 0px;
+    }
+
+    .carousel {
+        padding: 0 50px;
+    }
+
+    .footer_wrapper {
+        background: #1c4944;
+        padding: 20px;
+        color: #ffff;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+    .offer {
+        font-size: 12px;
+    }
+
+    .head_text span {
+        font-size: 52px;
+        line-height: 65px;
+    }
+
+    .head_text button {
+        width: 145px;
+        font-size: 15px;
+        padding: 7px 0px;
+    }
+
+    @media (max-width: 411.98px) {
+        .head_text button {
+            margin: 5px 50px;
+            padding: 4px 0px;
+        }
+    }
+
+    .center_wrap {
+        display: flex;
+        justify-content: center;
+    }
+}
